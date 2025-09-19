@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Shubham Kshirsagar. I'm a passionate Full Stack Java Developer based in Pune, India.",
+    description2: "I specialize in building end-to-end web applications using Java, Spring Boot, React, and modern databases. I enjoy working on both front-end and back-end development, focusing on creating scalable, efficient, and user-friendly solutions. Apart from coding, I’m constantly exploring new technologies, enhancing my problem-solving skills, and working on personal projects to strengthen my expertise. I believe in continuous learning and enjoy turning ideas into impactful digital products.",
     image: 2
 }

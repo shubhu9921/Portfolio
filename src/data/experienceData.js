@@ -1,23 +1,18 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Unified Mentor',
+        jobtitle: 'Full Stack Developer Intern',
+        startYear: '2024',
+        endYear: '2025',
+        description: 'Worked on developing and maintaining web applications using MERN stack. Implemented CRUD operations, optimized backend APIs with Node.js and Express, integrated MongoDB/MySQL databases, and built responsive React front-end components. Gained hands-on experience with authentication, REST APIs, and deployment.'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
-    },
+        company: 'Think and Learn Pvt. Ltd. (Byju’s)',
+        jobtitle: 'Business Development Associate',
+        startYear: '2023',
+        endYear: '2024',
+        description: 'Engaged with clients to understand their needs and provided personalized learning solutions. Developed strong communication and negotiation skills while achieving sales targets. Collaborated with cross-functional teams to enhance customer experience and maintain long-term relationships.'
+    }
 ]

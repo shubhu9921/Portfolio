@@ -75,6 +75,10 @@ import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 
+import expressjs from "../assets/svg/skills/expressjs.png"
+import nodejs from "../assets/svg/skills/NodeJS-Dark.svg"
+import springboot from "../assets/svg/skills/spring-boot.svg"
+
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
@@ -87,6 +91,12 @@ export const skillsImage = (skill) => {
             return photoshop;
         case 'docker':
             return docker;
+        case 'nodejs':
+            return nodejs;
+        case 'expressjs':
+            return expressjs;
+        case 'springboot':
+            return springboot;
         case 'illustrator':
             return illustrator;
         case 'adobe xd':

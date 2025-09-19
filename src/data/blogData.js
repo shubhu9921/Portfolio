@@ -1,60 +1,42 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'Getting Started with Java Full Stack Development',
+        description: 'An introduction to Java Full Stack Development covering frontend, backend, and database technologies, and why it is in demand today.',
+        date: 'Jan 5, 2025',
+        image: 'https://miro.medium.com/v2/resize:fit:1200/1*0G5zu7CnXdMT9pGbYUTQLQ.png',
+        url: 'https://medium.com/@yourprofile/java-fullstack-introduction'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'Building REST APIs with Spring Boot',
+        description: 'Step-by-step guide to creating secure and scalable REST APIs using Spring Boot and integrating them with a frontend.',
+        date: 'Jan 18, 2025',
+        image: 'https://spring.io/images/og-spring-boot-3-86fba6ff8f0e158b50c7343fc0d6af62.png',
+        url: 'https://medium.com/@yourprofile/building-rest-apis-springboot'
     },
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
-        date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        title: 'Integrating React with Spring Boot',
+        description: 'Learn how to connect your React frontend with a Spring Boot backend using REST APIs for seamless full stack development.',
+        date: 'Feb 2, 2025',
+        image: 'https://blog.logrocket.com/wp-content/uploads/2021/07/using-react-with-spring-boot-nocdn.png',
+        url: 'https://dev.to/yourprofile/integrating-react-with-springboot'
     },
     {
         id: 4,
-        title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
-        description: 'Want to check your internet speed from the terminal? Here\'s the perfect way to the that.',
-        date: 'Sep 17, 2020',
-        image: 'https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png',
-        url: 'https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html'
+        title: 'Role-Based Authentication in Java Full Stack Apps',
+        description: 'A complete guide to implementing role-based authentication and authorization using Spring Security and JWT in Java Full Stack applications.',
+        date: 'Feb 20, 2025',
+        image: 'https://miro.medium.com/v2/resize:fit:720/1*6hWlBVnZH3fBvtqTQxUciQ.png',
+        url: 'https://hashnode.com/@yourprofile/java-role-based-authentication'
     },
     {
         id: 5,
-        title: 'GET MICHAEL\'S OR TREVOR\'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE',
-        description: 'In case you haven\'t heard of this game, GTA stands for \'Grand Theft Auto\'. It is an open-world game published by Rockstar Games.',
-        date: 'Oct 1, 2020',
-        image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
-    },
+        title: 'Deploying a Java Full Stack Application on AWS',
+        description: 'Learn how to deploy a Java Full Stack project with Spring Boot, React, and MySQL on AWS EC2 and RDS.',
+        date: 'Mar 5, 2025',
+        image: 'https://d1.awsstatic.com/webteam/architecture-icons/AWS-Architecture-Icons_2020.12.30.d22fe798f9c531ebdcfbd0e4c4efbb5575f3720e.png',
+        url: 'https://medium.com/@yourprofile/deploy-java-fullstack-aws'
+    }
 ]
-
-
-
-
-// Do not remove any fields.
-// Leave it blank instead as shown below.
-
-
-/* 
-{
-    id: 1,
-    title: 'Car Pooling System',
-    description: '',
-    date: 'Oct 1, 2020',
-    image: '',
-    url: 'https://preview.colorlib.com/theme/rezume/'
-}, 
-*/
